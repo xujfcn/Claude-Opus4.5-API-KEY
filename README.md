@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<h1 align="center">🎁 免费领取 API KEY - <a href="https://free.yunwu.ai" style="font-size: 1.2em; color: #ff6b6b;">点击这里</a> 🎁</h1>
+<h1 align="center">🎁 免费领取 API KEY - <a href="https://api.wstbuff.com" style="font-size: 1.2em; color: #ff6b6b;">点击这里</a> 🎁</h1>
 
 <h1 align="center">🌥️ 云雾API - OpenAI官方中转服务 🌥️</h1>
 <h2 align="center">支持 GPT-3.5、GPT-4.0、GPT-4V、Claude 等200+模型</h2>
@@ -9,8 +9,8 @@
 
 # 🚀 快速导航 🚀
 
->[一✨ 免费资源](https://free.yunwu.ai)
->>[1.1 免费API KEY申请](https://free.yunwu.ai)
+>[一✨ 免费资源](https://api.wstbuff.com)
+>>[1.1 免费API KEY申请](https://api.wstbuff.com)
 >>
 >>[1.2 免费镜像服务](https://github.com/a37836323/-chatgpt4.0-api-key?tab=readme-ov-file#21-%E5%85%8D%E8%B4%B9%E9%95%9C%E5%83%8F%E6%9C%8D%E5%8A%A1)
 >
@@ -19,12 +19,12 @@
 >>
 >>[2.2 Python示例代码](https://github.com/a37836323/-chatgpt4.0-api-key?tab=readme-ov-file#23-%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91-python%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81)
 >
->[三✨ 账户管理](https://chaxun.wlai.vip)
->>[3.1 购买API KEY](https://yunwu.ai/topup)
+>[三✨ 账户管理](https://api.wstbuff.com/console)
+>>[3.1 购买API KEY](https://api.wstbuff.com/console/topup)
 >>
->>[3.2 查询余额及明细](https://chaxun.wlai.vip)
+>>[3.2 查询余额及明细](https://api.wstbuff.com/console)
 >
->[四✨ 帮助中心](https://yunwu.ai/about)
+>[四✨ 帮助中心](https://yunwu.apifox.cn/)
 
 
 
@@ -32,7 +32,7 @@
 
 # 🎯 模型及超低定价 🎯
 ## 支持 GPT3.5、GPT4.0、GTP4o、text-embedding 等227+模型
-云雾API致力于提供最稳定、最具性价比的企业级AI服务。我们的定价策略简单透明，按照OpenAI官方价格1:1计费，0.5元=1$ Token，所有模型均对标官网定价。
+云雾API致力于提供最稳定、最具性价比的企业级AI服务。我们的定价策略简单透明，按照OpenAI官方价格1:1计费，1元=1$ Token，所有模型均对标官网定价。
 
 | 模型 | 提问价格 | 回答价格 | 云雾定价 | 并发请求 |
 | --- | --- | --- | --- | --- |
@@ -44,7 +44,7 @@
 
 # 🚀 快速开始 🚀
 ## 一🌟 购买APIKEY
-1. 访问官网 [yunwu.ai](https://yunwu.ai) 注册账号
+1. 访问官网 [yunwu.ai](https://api.wstbuff.com) 注册账号
 2. 在线充值，1元起充
 3. 自动生成APIKEY，立即使用
 
@@ -88,7 +88,7 @@
 -  Python使用Claude识别图片 [https://yunwu.apifox.cn/doc-5459021](https://yunwu.apifox.cn/doc-5459021)
 
 ## 三🌟 查询余额
-访问 [点击查询](https://chaxun.wlai.vip) 实时查询APIKEY余额及消费明细
+访问 [点击查询](https://api.wstbuff.com/console) 实时查询APIKEY余额及消费明细
 
 ## 四🌟 常见问题
 1. 如何调用API？ → 参考示例代码
@@ -98,7 +98,7 @@
 5. 有效期多久？ → 长期有效
 
 📌 温馨提示
-📣 建议收藏官网 [yunwu.ai](https://yunwu.ai)
+📣 建议收藏官网 [yunwu.ai](https://api.wstbuff.com)
 📣 关注我们获取最新优惠信息
 
 🌟 如果喜欢云雾API，请给我们一个 Star 吧！
