@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1 align="center">🎁 Get Your Free API KEY - <a href="https://free.yunwu.ai" style="font-size: 1.2em; color: #ff6b6b;">Click Here</a> 🎁</h1>
+<h1 align="center">🎁 Get Your Free API KEY - <a href="https://api.wstbuff.com" style="font-size: 1.2em; color: #ff6b6b;">Click Here</a> 🎁</h1>
 
 <h1 align="center">🌥️ Yunwu API - Official OpenAI Proxy Service 🌥️</h1>
 <h2 align="center">Supports 207+ models including GPT-3.5, GPT-4.0, GPT-4V, Claude, etc.</h2>
@@ -8,8 +8,8 @@
 
 # 🚀 Quick Navigation 🚀
 
->[1✨ Free Resources](https://free.yunwu.ai)
->>[1.1 Apply for Free API KEY](https://free.yunwu.ai)
+>[1✨ Free Resources](https://api.wstbuff.com)
+>>[1.1 Apply for Free API KEY](https://api.wstbuff.com)
 >>
 >>[1.2 Free Mirror Services](https://github.com/a37836323/-chatgpt4.0-api-key?tab=readme-ov-file#21-%E5%85%8D%E8%B4%B9%E9%95%9C%E5%83%8F%E6%9C%8D%E5%8A%A1)
 >
@@ -18,24 +18,17 @@
 >>
 >>[2.2 Python Sample Code](https://github.com/a37836323/-chatgpt4.0-api-key?tab=readme-ov-file#23-%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91-python%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81)
 >
->[3✨ Account Management](https://chaxun.wlai.vip)
->>[3.1 Purchase API KEY](https://yunwu.ai/topup)
+>[3✨ Account Management](https://api.wstbuff.com/console)
+>>[3.1 Purchase API KEY](https://api.wstbuff.com/console/topup)
 >>
->>[3.2 Check Balance and Details](https://chaxun.wlai.vip)
+>>[3.2 Check Balance and Details](https://api.wstbuff.com/console)
 >
->[4✨ Help Center](https://yunwu.ai/about)
+>[4✨ Help Center](https://api.wstbuff.com)
 
 # 🎯 Models and Ultra-Low Pricing 🎯
 ## Supports 227+ models including GPT-3.5, GPT-4.0, GTP4o, text-embedding, etc.
-Yunwu API is dedicated to providing the most stable and cost-effective enterprise-level AI services. Our pricing strategy is simple and transparent, charging at a 1:1 rate according to OpenAI's official prices, 0.5 yuan = 1$ Token, with all models aligned with official pricing.
+Yunwu API is dedicated to providing the most stable and cost-effective enterprise-level AI services. Our pricing strategy is simple and transparent, charging at a 1:1 rate according to OpenAI's official prices, , with all models aligned with official pricing.
 
-| Model | Question Price | Answer Price | Yunwu Pricing | Concurrent Requests |
-| --- | --- | --- | --- | --- |
-| gpt-3.5-turbo | $0.00075/1k | $0.002/1k | 0.5￥=1$token | Unlimited |
-| gpt-4 | $0.03/1k | $0.003/1k | 0.5￥=1$token | Unlimited |
-| gpt-4o | $0.005/1k | $0.0075/1k | 0.5￥=1$token | Unlimited |
-| gpt-4o-mini | $0.000075/1k | $0.0006/1k | 0.5￥=1$token | Unlimited |
-| text-embedding-3-large | $0.000065/1k | $0.00013/1k | 0.5￥=1$token | Unlimited |
 
 # 🚀 Quick Start 🚀
 ## 1🌟 Purchase API KEY
@@ -83,7 +76,7 @@ Yunwu API is dedicated to providing the most stable and cost-effective enterpris
 - Python Using Claude to Recognize Images [https://yunwu.apifox.cn/doc-5459021](https://yunwu.apifox.cn/doc-5459021)
 
 ## 3🌟 Check Balance
-Visit [Click to Check](https://chaxun.wlai.vip) to check your API KEY balance and consumption details in real-time.
+Visit [Click to Check](https://api.wstbuff.com/console) to check your API KEY balance and consumption details in real-time.
 
 ## 4🌟 Frequently Asked Questions
 1. How to call the API? → Refer to sample code
@@ -93,7 +86,7 @@ Visit [Click to Check](https://chaxun.wlai.vip) to check your API KEY balance an
 5. How long is the validity? → Long-term valid
 
 📌 Friendly Reminder
-📣 It is recommended to bookmark the official website [yunwu.ai](https://yunwu.ai)
+📣 It is recommended to bookmark the official website [yunwu.ai](https://api.wstbuff.com)
 📣 Follow us for the latest discount information
 
 🌟 If you like Yunwu API, please give us a Star!
